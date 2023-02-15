@@ -7,4 +7,3 @@ city = input("Введите ваш город: ")
 print ("Имя:", name)
 print ("Возраст:", age)
 print ("Город:", city)
-
