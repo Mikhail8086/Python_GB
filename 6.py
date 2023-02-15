@@ -23,3 +23,4 @@ if profit > 0:
     profit_employees = float('{:.2f}'.format(profit_employees))
     print("Прибыль в расчете на одного сотрудника:", profit_employees,"р.")
 
+

@@ -13,3 +13,4 @@ if seconds >= 60:
     seconds %= 60
 
 print(f"Время в формате: чч:мм:сс - {hours}:{minutes}:{seconds}")
+
